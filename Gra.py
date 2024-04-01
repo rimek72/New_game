@@ -12,6 +12,7 @@ def play(player, cpu):
         return True
     else:
         return False
+#test
 
 def play_cmd(player):
     global text_label
