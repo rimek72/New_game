@@ -13,7 +13,6 @@ def play(player, cpu):
     else:
         return False
 
-
 def play_cmd(player):
     global text_label
     cpu = choice(available_choices)
